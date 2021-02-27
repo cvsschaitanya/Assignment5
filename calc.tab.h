@@ -66,7 +66,7 @@ extern int yydebug;
 #if ! defined YYSTYPE && ! defined YYSTYPE_IS_DECLARED
 union YYSTYPE
 {
-#line 19 "/home/chaitanya/Documents/LP_Assignments/Assignment5/calc.y"
+#line 20 "calc.y"
 
     float f;
     char c;
